@@ -1,9 +1,6 @@
 #include <stdio.h>
-
 int main()
-
 {
-	printf("hello dfrobot\n");
+	printf("new.c\n");
 	return 0;
-
 }
